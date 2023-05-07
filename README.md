@@ -1,2 +1,3 @@
-# bumpytrailgames.github.io
-Indie Adventure Games And Game Dev Stuff
+# Bumpy Trail Games
+
+Website generated with [Hugo](https://gohugo.io) and the [Blowfish](https://blowfish.page) template.
